@@ -1,7 +1,7 @@
 ### July 26th 2020
 
 ### BikeShare Project
-Replace the Project Title
+
 
 ### Description
 This is a Python project exploring bike share data for three major US cities, Chicago, Washington, and New York City.
