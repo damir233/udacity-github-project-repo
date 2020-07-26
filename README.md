@@ -13,5 +13,7 @@ chicago.csv
 new_york_city.csv
 washington.csv
 
-
+### Software
+Python 3
+NumPy and Pandas
 
